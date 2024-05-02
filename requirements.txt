@@ -1,0 +1,5 @@
+pytesseract~=0.3.10
+pillow~=10.3.0
+pdfquery~=0.4.3
+pypdf2~=3.0.1
+reportlab~=4.2.0
