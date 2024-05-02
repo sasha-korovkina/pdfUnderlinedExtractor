@@ -79,10 +79,8 @@ def extract_region_from_pdf(pdf_path, page_number, record):
     doc.close()
     return text
 
-page_number = 0
 
 underline_text = get_coordinates(pdf_path)
-
 page_number = int(input('Please enter the page number you need (starting at 0): '))
 
 for record in underline_text:
