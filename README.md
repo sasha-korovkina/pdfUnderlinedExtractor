@@ -1,5 +1,7 @@
 # PDF Underlined Text Extractor
 
+<img width="1275" alt="image" src="https://github.com/sasha-korovkina/pdfUnderlinedExtractor/assets/127419480/7c148f05-7ca9-490b-9c06-3e0d15231b3a">
+
 This repository provides tools to extract underlined text from any PDF document. The process automates the extraction and recognition of underlined text using a series of steps that convert PDFs into structured data for easy processing.
 
 ## How It Works
